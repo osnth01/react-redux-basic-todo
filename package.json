@@ -4,7 +4,7 @@
   "description": "A basic todo app written with React and Redux for the purpose of learning.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
